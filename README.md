@@ -1,2 +1,2 @@
 # Fudcon-presentations
-Presentations of my session at Fudcon India 2015
+Presentations of my sessions at Fudcon India 2015
